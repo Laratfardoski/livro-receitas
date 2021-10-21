@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu ivro de receitas :wave:
 
 - Strogonoff de frango
-- pave
+- Pavê
+- Bolo de cenoura
